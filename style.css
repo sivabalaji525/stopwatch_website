@@ -35,7 +35,7 @@ h1 {
     line-height: 80px;
     letter-spacing: 4px;
     text-align: center;
-    width: 100%;
+    width: 90%;
     white-space: nowrap; /* prevent wrapping */
     font-variant-numeric: tabular-nums; /* Use monospace numbers */
     transform: skewX(-15deg); /* Increased slant angle further */
